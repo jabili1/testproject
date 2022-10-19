@@ -1,5 +1,6 @@
 package testproject;
 
-public class test {
+public class test{
+	public static void main(string arg()) 
 
 }
